@@ -1,8 +1,9 @@
 bank-account-processing-system/
 │
 ├── Day1/
-│   ├── Project_Summary.md
-│   ├── Flowcharts/   (images or text diagrams)
+│   ├── Project_Summary
+
+│   ├── Flowchart
 │   └── DB2_Tables.sql
 │
 ├── Day2/
